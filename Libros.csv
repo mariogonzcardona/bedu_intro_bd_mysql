@@ -1,0 +1,51 @@
+"id_libro";"titulo";"autor";"genero";"año_publicacion";"disponible"
+1;"El Camino del Sol";"José Martín";"Novela";"2010";1
+2;"Amanecer Rojo";"Laura Esquivel";"Ciencia Ficción";"2015";1
+3;"La Montaña Mágica";"Carlos Ruiz";"Aventura";"2005";1
+4;"Historias de Medianoche";"Ana García";"Terror";"2008";1
+5;"El Lago de los Sueños";"Sergio Ramírez";"Romance";"2012";1
+6;"Vientos de Cambio";"Luisa Mendoza";"Historia";"2009";1
+7;"Raíces Profundas";"Carmen Torres";"Biografía";"2011";1
+8;"Mundos Paralelos";"Francisco Gómez";"Ciencia Ficción";"2013";1
+9;"Olas Salvajes";"Sofía Alvarez";"Aventura";"2014";1
+10;"Cumbres Borrascosas";"Diego Hernández";"Novela";"2000";1
+11;"El Secreto de la Caverna";"Lucía Sánchez";"Misterio";"2016";1
+12;"Días de Verano";"Fernando Martín";"Romance";"2017";1
+13;"Noches Blancas";"Isabel Peralta";"Novela";"2006";1
+14;"La Tormenta";"Antonio Morales";"Aventura";"2018";1
+15;"El Desierto Rojo";"Elena Soto";"Historia";"2004";1
+16;"Pasajes Oscuros";"Ricardo López";"Terror";"2003";1
+17;"El Puente de los Sueños";"Patricia Cruz";"Romance";"2007";1
+18;"La Ciudad Antigua";"Jorge Castillo";"Historia";"2002";1
+19;"El Bosque de la Luna";"Beatriz Ramírez";"Fantasía";"2001";1
+20;"Estrellas Distantes";"Miguel Ángel Gómez";"Ciencia Ficción";"2019";1
+21;"Viaje al Centro del Corazón";"Juan Pérez";"Romance";"2020";1
+22;"La Isla Misteriosa";"María López";"Aventura";"2021";1
+23;"Los Guardianes del Tiempo";"Carlos Hernández";"Ciencia Ficción";"2022";1
+24;"Sombras en el Espejo";"Ana Martínez";"Misterio";"2023";1
+25;"Luces del Norte";"Luisa Fernández";"Fantasía";"2024";1
+26;"El Regreso";"Sergio Gómez";"Novela";"1999";1
+27;"La Última Puerta";"Carmen Díaz";"Terror";"1998";1
+28;"Líneas Paralelas";"Francisco Morales";"Ciencia Ficción";"1997";1
+29;"El Vuelo del Águila";"Sofía Castillo";"Historia";"1996";1
+30;"Corrientes Ocultas";"Diego Álvarez";"Misterio";"1995";1
+31;"Secretos del Pasado";"Lucía Sánchez";"Historia";"1994";1
+32;"El Jardín Olvidado";"Fernando Ramírez";"Romance";"1993";1
+33;"Ecos de la Ciudad";"Isabel Torres";"Novela";"1992";1
+34;"El Castillo en el Cielo";"Antonio Ruiz";"Fantasía";"1991";1
+35;"Laberintos de Poder";"Elena Gil";"Política";"1990";1
+36;"Voces en la Niebla";"Ricardo Romero";"Terror";"1989";1
+37;"El Arte de la Guerra";"Patricia Cruz";"Historia";"1988";1
+38;"La Noche de los Cristales";"Jorge Navarro";"Historia";"1987";1
+39;"El Sueño de la Razón";"Beatriz Jiménez";"Biografía";"1986";1
+40;"Los Hijos del Tiempo";"Miguel Ángel Rey";"Ciencia Ficción";"1985";1
+41;"El Arte de Vivir";"Carlos Ruiz";"Autoayuda";"2010";1
+42;"El Jardín Secreto";"Frances Hodgson";"Infantil";"1911";1
+43;"La Sombra del Viento";"Carlos Ruiz Zafón";"Novela";"2001";1
+44;"Crónica de una Muerte Anunciada";"Gabriel García Márquez";"Novela";"1981";1
+45;"Cien Años de Soledad";"Gabriel García Márquez";"Novela";"1967";1
+46;"La Casa de los Espíritus";"Isabel Allende";"Novela";"1982";1
+47;"Como Agua para Chocolate";"Laura Esquivel";"Novela";"1989";1
+48;"Rayuela";"Julio Cortázar";"Novela";"1963";1
+49;"Don Quijote de la Mancha";"Miguel de Cervantes";"Novela";"1905";1
+50;"El Amor en los Tiempos del Cólera";"Gabriel García Márquez";"Novela";"1985";1
